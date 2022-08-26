@@ -16,7 +16,7 @@
 .prettierignore
 
 *.js
-css
+
 design
 images
 *.md

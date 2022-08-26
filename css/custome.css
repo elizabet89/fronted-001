@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(202, 200, 200);
+}
+
+.card {
+  width: 260px;
+  height: auto;
+  background-color: white;
+  border: 1px solid transparent;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+}
+.card .codigoqr {
+  width: 92%;
+  height: 240px;
+  margin: auto;
+  margin-top: 12px;
+  border-radius: 15px;
+}
+.card .codigoqr .imagen {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+.card .texto {
+  width: 92%;
+  margin: auto;
+  margin-top: 17px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+.card .texto h3 {
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  margin: auto;
+  font-family: "Outfit", sans-serif;
+  color: hsl(218deg, 44%, 22%);
+}
+.card .texto p {
+  font-family: "Outfit", sans-serif;
+  font-size: 13px;
+  line-height: 15px;
+  margin: auto;
+  width: 90%;
+  margin-top: 12px;
+  color: hsl(220deg, 15%, 55%);
+}
+
+/*# sourceMappingURL=custome.css.map */
