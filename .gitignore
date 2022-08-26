@@ -18,6 +18,6 @@
 *.js
 
 design
-images
+
 *.md
 sass
